@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: rgba(7, 86, 98, 0.56);
+    background-color: rgba(157, 184, 188, 0.56);
 }
 
 .main-game {
@@ -47,6 +47,15 @@ body {
     border-top-left-radius: 100%;
 }
 
+.jogo{
+    text-align: center;
+}
+
+.jogo {
+    background-color: rgb(5, 73, 74);
+    color: rgb(246, 248, 250);
+    padding: 10px;
+  } 
 .selected {
     opacity: 0.8;
 }
